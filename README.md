@@ -7,7 +7,7 @@ Desenvolvedor Front-End e Back-End.
 - CSS
 - JavaScript
 - Java
-- Phyton
+- Python
   
 
 ## Projetos
